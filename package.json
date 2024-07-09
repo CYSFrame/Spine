@@ -7,7 +7,7 @@
 	"author": "Spine-UPM",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/CYSFrame/Spine"
+		"url": "git+https://github.com/CYSFrame/Spine-Unity"
 	},
 	"keywords": [
 		"spine",
