@@ -1,20 +1,13 @@
 {
-	"name": "com.esotericsoftware.spine.spine-unity",
-	"displayName": "spine-unity Runtime",
+	"name": "com.cysframe.spine",
+	"displayName": "Spine-Unity",
 	"description": "This plugin provides the spine-unity runtime core.",
 	"version": "4.0.0",
 	"unity": "2018.3",
-	"author": {
-		"name": "Esoteric Software",
-		"email": "contact@esotericsoftware.com",
-		"url": "http://esotericsoftware.com/"
-	},
-	"dependencies": {
-		"com.esotericsoftware.spine.spine-csharp": "4.0.0"
-	},
+	"author": "Spine-UPM",
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:EsotericSoftware/spine-runtimes.git"
+		"url": "https://github.com/CYSFrame/Spine-Unity.git"
 	},
 	"keywords": [
 		"spine",
@@ -23,10 +16,5 @@
 		"2d",
 		"skeletal",
 		"animation"
-	],
-	"license": "SEE LICENSE IN LICENSE",
-	"bugs": {
-		"url": "https://github.com/EsotericSoftware/spine-runtimes/issues"
-	},
-	"homepage": "https://github.com/EsotericSoftware/spine-runtimes#readme"
+	]
 }
