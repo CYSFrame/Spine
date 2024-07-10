@@ -1,6 +1,6 @@
 {
 	"name": "com.cysframe.spine",
-	"displayName": "Spine-Unity",
+	"displayName": "Spine",
 	"description": "This plugin provides the spine-unity runtime core.",
 	"version": "4.0.0",
 	"unity": "2018.3",
